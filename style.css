@@ -1,0 +1,76 @@
+button {
+	background-color: #FE753E;
+}
+
+.main-image {
+	width: 872px; 
+	margin-left: -250px;
+}
+
+.second {
+	margin-top: 150px;
+}
+
+.pilih {
+	font-size: 30px;
+}
+
+.middle {
+	width: 320px;
+}
+
+.third {
+	margin-top: 300px;
+}
+
+.kenapa {
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.num {
+	margin-top: 64px;
+	font-size: 80px;
+	font-weight: 800;
+	color: #1EA59A;
+}
+
+.content {
+	margin-bottom: 92px;
+}
+
+.icon {
+	width: 24px;
+	height: 24px;
+}
+
+.text {
+	margin-left: 48px;
+}
+
+.fourth {
+	margin-top: 150px;
+}
+
+.small {
+	width: 320px;
+	height: 210px;
+}
+
+.fifth {
+	margin-top: 152px;
+	padding-bottom: 151px
+}
+
+.apa {
+	font-size: 40px;
+	font-weight: 700;
+}
+
+.help {
+	font-size: 30px;
+}
+
+.last {
+	margin-left: 225px;
+}
