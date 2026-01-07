@@ -3,7 +3,6 @@ button {
 }
 
 .main-image {
-	width: 872px; 
 	margin-left: -250px;
 }
 
@@ -13,10 +12,6 @@ button {
 
 .pilih {
 	font-size: 30px;
-}
-
-.middle {
-	width: 320px;
 }
 
 .third {
@@ -39,22 +34,12 @@ button {
 	margin-bottom: 92px;
 }
 
-.icon {
-	width: 24px;
-	height: 24px;
-}
-
 .text {
 	margin-left: 48px;
 }
 
 .fourth {
 	margin-top: 150px;
-}
-
-.small {
-	width: 320px;
-	height: 210px;
 }
 
 .fifth {
@@ -69,8 +54,4 @@ button {
 
 .help {
 	font-size: 30px;
-}
-
-.last {
-	margin-left: 225px;
 }
